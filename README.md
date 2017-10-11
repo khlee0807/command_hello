@@ -1,3 +1,3 @@
 remote repository of git_tutorial
 
-git add README.md
+This sentence is added to see the difference between master and hotfix branch
